@@ -1,0 +1,83 @@
+
+  .col-12 {
+    background-color: rgba(245, 208, 153, 0.753);
+}
+
+
+.col-12col-md-12{
+    text-align: center;
+}
+
+img{
+   margin-top: 20px;
+}
+
+button{
+    border: 5px;
+    width: 120px;
+    margin-bottom: 40px;
+}
+
+.col-6{ 
+  text-align: center;
+}
+
+p{
+    color: rgba(15, 15, 15, 0.623);
+}
+
+.pequeño h2{
+    margin: 10px;
+}
+
+.caja1{
+    background-color: rgba(0, 0, 0, 0.041);
+      text-align: center;
+      width: 260px;
+      margin: 10px;
+      margin-top: 20px;
+      margin-left: 150px;
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+      border-radius: 25px;
+      font-weight: normal;
+ }
+
+ .caja2{
+  background-color: rgba(0, 0, 0, 0.041);
+    text-align: center;
+    width: 260px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-left: 150px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+    border-radius: 25px;
+    font-weight: normal;
+}
+.caja3{
+  background-color: rgba(0, 0, 0, 0.041);
+    text-align: center;
+    width: 260px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 150px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+    border-radius: 25px;
+    font-weight: normal;
+}
+
+
+h3{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 18px;
+}
+  
+button{
+    margin-bottom: 15px;
+}
+
+button img{
+    margin-top: -7px;
+}
